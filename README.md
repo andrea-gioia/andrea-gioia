@@ -14,6 +14,6 @@ With 20+ years in the game, I have navigated the data universe up and down, one 
 # Recent stuff
 1. 🎥 [Il ruolo del data management nell’era dell’AI Generativa](https://dama-italy.org/diac-2023/) @ DAMA Italy Annual Convention 2023 🇮🇹
 2. 📝 [LLMs e Knowledge Graphs: un matrimonio perfetto](https://online.pubhtml5.com/vbdo/kkbl/) @ AgileItalia Magazine 2023 🇮🇹
-3. 🎥 [Semantic Data Product](https://www.youtube.com/watch?v=ap8pWiRBvJQ)) @ Big Data LND 2023 🇬🇧
+3. 🎥 [Semantic Data Product](https://www.youtube.com/watch?v=ap8pWiRBvJQ) @ Big Data LND 2023 🇬🇧
 4. 🎥 [Data contract in practice](https://www.youtube.com/watch?v=CKqSNn-7wiw) @ Data Innovation Summit 2023 🇬🇧
 5. 📝 [Data contract in practice](https://medium.com/better-programming/data-contracts-in-practice-93e58d324f34) @ Medium 2023 🇬🇧
