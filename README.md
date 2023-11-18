@@ -7,7 +7,7 @@ With 20+ years in the game, I have navigated the data universe up and down, one 
 
 🟠 Author of the [data product descriptor specification](https://dpds.opendatamesh.org/) and product owner of the open-source [ODM Platform](https://github.com/opendatamesh-initiative/odm-platform).
 
-🌐 Enthusiastic member of [DAMA](https://www.dama.org/cpages/home) and part of the scientific committee of the [DAMA Italian Chapter](https://dama-italy.org/) since 2023.
+🌐 Member of [DAMA](https://www.dama.org/cpages/home) and part of the scientific committee of the [DAMA Italian Chapter](https://dama-italy.org/) since 2023.
 
 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/andreagioia/)
 
