@@ -12,8 +12,10 @@ With 20+ years in the game, I have navigated the data universe up and down, one 
 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/andreagioia/)
 
 # Recent stuff
+1. 🎥 [Architects & Data in a Volatile World](https://www.youtube.com/watch?v=35GAreCLkeM&t=2s) @ Data Value Show 2024 🇬🇧
+1. 🎥 [Managing Data as a Product: Overcoming the Challenges of Traditional Data Management](https://www.youtube.com/watch?v=pC8fPaKdm3M) @ Tapas And Pretzels Podcast 2024 🇬🇧
 1. 🎥 [Data Product Catalog: from Data Contracts to knowledge graph](https://www.youtube.com/watch?v=1fsD2JpEQqg&feature=youtu.be)  @ Data Innovation Summit 2024 🇬🇧
-1. 🎥 [A Panel Discussion on Data-Centricity + Artificial Intelligence](https://www.youtube.com/watch?v=epuclRDokQM)@  SWARM Community; April 2024 🇬🇧
+1. 🎥 [A Panel Discussion on Data-Centricity + Artificial Intelligence](https://www.youtube.com/watch?v=epuclRDokQM) @  SWARM Community; April 2024 🇬🇧
 1. 🎥 [Information Architecture From Data Products to Knowledge Graph](https://youtu.be/Oe0mjHM2Ghw?si=9ZrA7qEvzTX8P2iA) @  SWARM Community; May 2024 🇬🇧
 1. 🎥 [Il ruolo del data management nell’era dell’AI Generativa](https://dama-italy.org/diac-2023/) @ DAMA Italy Annual Convention; 2023 🇮🇹
 1. 📝 [LLMs e Knowledge Graphs: un matrimonio perfetto](https://online.pubhtml5.com/vbdo/kkbl/#p=25) @ AgileItalia Magazine; 2023 🇮🇹
