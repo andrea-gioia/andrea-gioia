@@ -16,7 +16,8 @@ With 20+ years in the game, I have navigated the data universe up and down, one 
 1. [Big Data LND](https://bigdataldn.com/)  -> London; September 18-19, 2024 🇬🇧
 
 # Recent stuff
-1. 🎥 [Architects & Data in a Volatile World](https://www.youtube.com/watch?v=35GAreCLkeM&t=2s) @ Data Value Show 2024 🇬🇧
+1. 🎥 [Data Products & the Platform Organization](https://www.linkedin.com/feed/update/urn:li:activity:7232370974078234625/) @ Boundaryless Webinar 🇬🇧
+2. 🎥 [Architects & Data in a Volatile World](https://www.youtube.com/watch?v=35GAreCLkeM&t=2s) @ Data Value Show 2024 🇬🇧
 1. 🎥 [Managing Data as a Product: Overcoming the Challenges of Traditional Data Management](https://www.youtube.com/watch?v=pC8fPaKdm3M) @ Tapas And Pretzels Podcast 2024 🇬🇧
 1. 🎥 [Data Product Catalog: from Data Contracts to knowledge graph](https://www.youtube.com/watch?v=1fsD2JpEQqg&feature=youtu.be)  @ Data Innovation Summit 2024 🇬🇧
 1. 🎥 [A Panel Discussion on Data-Centricity + Artificial Intelligence](https://www.youtube.com/watch?v=epuclRDokQM) @  SWARM Community; April 2024 🇬🇧
