@@ -12,10 +12,12 @@ With 20+ years in the game, I have navigated the data universe up and down, one 
 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/andreagioia/)
 
 # Upcoming stuff
-1. [Managin data as a product](https://github.com/PacktPublishing/Managing-Data-as-a-Product/tree/main) -> Everywhere; October 2024 🇬🇧
-1. [Big Data LND](https://bigdataldn.com/)  -> London; September 18-19, 2024 🇬🇧
+1. [Managin data as a product](https://github.com/PacktPublishing/Managing-Data-as-a-Product/tree/main) -> Everywhere; December 2024 🇬🇧
+1. [Building your Enterprise Knowledge Graph one data product at a time](https://2024.connected-data.london/talks/building-your-enterprise-knowledge-graph-one-data-product-at-a-timee/) -> Connected Data London; December 2024 🇬🇧
 
 # Recent stuff
+1. 🎥 [Why we need to focus on Knowledge Management, NOW!](https://www.youtube.com/watch?v=MytpBc5EAsE)  @ Catalog & Cocktails: The Honest No-BS Data Podcast 2024 🇬🇧
+1. 🎥 [Knowledge Driven Data Management](https://www.youtube.com/watch?v=ethMBybkkCI)  @ Big Data LND 2024 🇬🇧
 1. 🎥 [Data Products & the Platform Organization](https://www.linkedin.com/feed/update/urn:li:activity:7232370974078234625/) @ Boundaryless Webinar 🇬🇧
 2. 🎥 [Architects & Data in a Volatile World](https://www.youtube.com/watch?v=35GAreCLkeM&t=2s) @ Data Value Show 2024 🇬🇧
 1. 🎥 [Managing Data as a Product: Overcoming the Challenges of Traditional Data Management](https://www.youtube.com/watch?v=pC8fPaKdm3M) @ Tapas And Pretzels Podcast 2024 🇬🇧
