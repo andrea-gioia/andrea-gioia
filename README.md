@@ -11,11 +11,19 @@ With 20+ years in the game, I have navigated the data universe up and down, one 
 
 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/andreagioia/)
 
-# Upcoming stuff
+# Here, there and everywhere
+1. [Book](https://a.co/d/31c7Odt)
+2. [Slidecks](https://speakerdeck.com/angioia)
+3. [Talk recordings](https://www.youtube.com/watch?v=CKqSNn-7wiw&list=PL-JWvH0Ma-AgLPeixBN6ZHOM94AoYr_pt)
+4. [Just in case...](https://buymeacoffee.com/thedatajoy)
+
+# My feed
+
+## Upcoming stuff
 1. [Managin data as a product](https://github.com/PacktPublishing/Managing-Data-as-a-Product/tree/main) -> Everywhere; December 2024 🇬🇧
 1. [Building your Enterprise Knowledge Graph one data product at a time](https://2024.connected-data.london/talks/building-your-enterprise-knowledge-graph-one-data-product-at-a-timee/) -> Connected Data London; December 2024 🇬🇧
 
-# Recent stuff
+## Recent stuff
 1. 🎥 [Why we need to focus on Knowledge Management, NOW!](https://www.youtube.com/watch?v=MytpBc5EAsE)  @ Catalog & Cocktails: The Honest No-BS Data Podcast 2024 🇬🇧
 1. 🎥 [Knowledge Driven Data Management](https://www.youtube.com/watch?v=ethMBybkkCI)  @ Big Data LND 2024 🇬🇧
 1. 🎥 [Data Products & the Platform Organization](https://www.linkedin.com/feed/update/urn:li:activity:7232370974078234625/) @ Boundaryless Webinar 🇬🇧
@@ -25,7 +33,7 @@ With 20+ years in the game, I have navigated the data universe up and down, one 
 1. 🎥 [A Panel Discussion on Data-Centricity + Artificial Intelligence](https://www.youtube.com/watch?v=epuclRDokQM) @  SWARM Community; April 2024 🇬🇧
 1. 🎥 [Information Architecture From Data Products to Knowledge Graph](https://youtu.be/Oe0mjHM2Ghw?si=9ZrA7qEvzTX8P2iA) @  SWARM Community; May 2024 🇬🇧
 
-# Old stuff
+## Old stuff
 1. 🎥 [Il ruolo del data management nell’era dell’AI Generativa](https://dama-italy.org/diac-2023/) @ DAMA Italy Annual Convention; 2023 🇮🇹
 1. 📝 [LLMs e Knowledge Graphs: un matrimonio perfetto](https://online.pubhtml5.com/vbdo/kkbl/#p=25) @ AgileItalia Magazine; 2023 🇮🇹
 1. 🎥 [Semantic Data Product](https://www.youtube.com/watch?v=ap8pWiRBvJQ) @ Big Data LND; 2023 🇬🇧
