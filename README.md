@@ -13,9 +13,9 @@ With 20+ years in the game, I have navigated the data universe up and down, one 
 
 # Here, there and everywhere
 1. [Book](https://a.co/d/31c7Odt)
-2. [Slidecks](https://speakerdeck.com/angioia)
+2. [Slide decks](https://speakerdeck.com/angioia)
 3. [Talk recordings](https://www.youtube.com/watch?v=CKqSNn-7wiw&list=PL-JWvH0Ma-AgLPeixBN6ZHOM94AoYr_pt)
-4. [Just in case...](https://buymeacoffee.com/thedatajoy)
+4. [Just in case ...](https://buymeacoffee.com/thedatajoy)
 
 # My feed
 
