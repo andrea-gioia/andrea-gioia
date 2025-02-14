@@ -30,6 +30,9 @@ With 20+ years in the game, I have navigated the data universe up and down, one 
 
 
 ## Recent stuff
+1. 📝 [Data Contract vs. Data Product Specifications: Friends, Enemies, or Frenemies?](https://medium.com/@andrea_gioia/data-contract-vs-data-product-specifications-8ffa3cc16725) @ Medium Blog
+1. 📝 [How to Define Internal Data Specifications to Govern Your Data Ecosystem](https://medium.com/@andrea_gioia/how-to-define-internal-data-specifications-to-govern-your-data-ecosystem-9d59b3473dfe) @ Medium Blog
+1. 🎥 [What's Data Product](https://youtu.be/_12MjtLCJnQ?si=42Y93qfhOTLyC01e) @ Lets Talk About Data‬ Podcast 2025 🇬🇧 
 1. 🎥 [Special Episode: Managing Data as a Product "The Book"](https://www.youtube.com/watch?v=QCE6DUWnGZ4) @ Tapas And Pretzels Podcast 2024 🇬🇧
 1. 📝 [What I Talk About When I Talk About Data Product](https://medium.com/p/19faa223f91b) @ Medium Blog
 1. 📙 [Managin data as a product](https://github.com/PacktPublishing/Managing-Data-as-a-Product/tree/main) -> Everywhere; December 2024 🇬🇧
