@@ -24,6 +24,8 @@ With 20+ years in the game, I have navigated the data universe up and down, one 
 # My feed
 
 ## Upcoming stuff
+1. [Data Innovation Summit]([https://datainnovationsummit.com/](https://www.linkedin.com/events/damaitalybookclub-managingdataa7298302218586275841/comments) -> DAMA Italy Bookclub; March 2025  🇮🇹
+1. [From Monolithic Knowledge Graph to Distributed Knowledge Mesh](https://www.linkedin.com/events/frommonolithicknowledgegraphtod7298461264396144642/comments) -> ESTES PARK GROUP; March 2025 🇬🇧
 1. [Data Innovation Summit](https://datainnovationsummit.com/) -> Stockholm; May 2025 🇬🇧
 1. [Data Mesh Live](https://2025.datameshlive.com/) -> Antwerp; June 2025 🇬🇧
 1. [Big Data London](https://www.bigdataldn.com/) -> London; September 2025 🇬🇧
