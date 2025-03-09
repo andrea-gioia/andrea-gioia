@@ -39,8 +39,8 @@ With 20+ years in the game, I have navigated the data universe up and down, one 
 ## 2024 stuff
 1. 🎥 [Special Episode: Managing Data as a Product "The Book"](https://www.youtube.com/watch?v=QCE6DUWnGZ4) @ Tapas And Pretzels Podcast 2024 🇬🇧
 1. 📝 [What I Talk About When I Talk About Data Product](https://medium.com/p/19faa223f91b) @ Medium Blog
-1. 📙 [Managin data as a product](https://github.com/PacktPublishing/Managing-Data-as-a-Product/tree/main) -> Everywhere; December 2024 🇬🇧
-1. 📝 [Building your Enterprise Knowledge Graph one data product at a time](https://speakerdeck.com/angioia/building-your-enterprise-knowledge-graph-one-data-product-at-a-time) -> Connected Data London; December 2024 🇬🇧
+1. 📙 [Managin data as a product](https://github.com/PacktPublishing/Managing-Data-as-a-Product/tree/main) @ Everywhere; December 2024 🇬🇧
+1. 📝 [Building your Enterprise Knowledge Graph one data product at a time](https://speakerdeck.com/angioia/building-your-enterprise-knowledge-graph-one-data-product-at-a-time) @ Connected Data London; December 2024 🇬🇧
 1. 🎥 [Why we need to focus on Knowledge Management, NOW!](https://www.youtube.com/watch?v=MytpBc5EAsE)  @ Catalog & Cocktails: The Honest No-BS Data Podcast 2024 🇬🇧
 1. 🎥 [Knowledge Driven Data Management](https://www.youtube.com/watch?v=ethMBybkkCI)  @ Big Data LND 2024 🇬🇧
 1. 🎥 [Data Products & the Platform Organization](https://www.linkedin.com/feed/update/urn:li:activity:7232370974078234625/) @ Boundaryless Webinar 🇬🇧
