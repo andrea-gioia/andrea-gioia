@@ -24,14 +24,14 @@ With 20+ years in the game, I have navigated the data universe up and down, one 
 # My feed
 
 ## Upcoming stuff
-1. [Managing Data as a Product](https://www.linkedin.com/events/damaitalybookclub-managingdataa7298302218586275841/comments) @ DAMA Italy Book Club; March 2025  🇮🇹
-1. [From Monolithic Knowledge Graph to Distributed Knowledge Mesh](https://www.linkedin.com/events/frommonolithicknowledgegraphtod7298461264396144642/comments) @ ESTES PARK GROUP; March 2025 🇬🇧
 1. [Data Innovation Summit](https://datainnovationsummit.com/) @ Stockholm; May 2025 🇬🇧
 1. [Data Mesh Live](https://2025.datameshlive.com/) @ Antwerp; June 2025 🇬🇧
 1. [Big Data London](https://www.bigdataldn.com/) @ London; September 2025 🇬🇧
 
 
 ## Recent stuff
+1. 🎥 [Managing Data as a Product](https://www.linkedin.com/events/damaitalybookclub-managingdataa7298302218586275841/comments) @ DAMA Italy Book Club; March 2025  🇮🇹
+1. 🎥 [From Monolithic Knowledge Graph to Distributed Knowledge Mesh](https://www.youtube.com/watch?v=Sqi98tJNdkQ) @ ESTES PARK GROUP; March 2025 🇬🇧
 1. 📝 [Data Contract vs. Data Product Specifications: Friends, Enemies, or Frenemies?](https://medium.com/@andrea_gioia/data-contract-vs-data-product-specifications-8ffa3cc16725) @ Medium Blog
 1. 📝 [How to Define Internal Data Specifications to Govern Your Data Ecosystem](https://medium.com/@andrea_gioia/how-to-define-internal-data-specifications-to-govern-your-data-ecosystem-9d59b3473dfe) @ Medium Blog
 1. 🎥 [What's Data Product](https://youtu.be/_12MjtLCJnQ?si=42Y93qfhOTLyC01e) @ Lets Talk About Data‬ Podcast 2025 🇬🇧 
