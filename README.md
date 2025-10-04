@@ -24,12 +24,14 @@ With 20+ years in the game, I have navigated the data universe up and down, one 
 # My feed
 
 ## Upcoming stuff
-1. [Data Innovation Summit](https://datainnovationsummit.com/) @ Stockholm; May 2025 🇬🇧
-1. [Data Mesh Live](https://2025.datameshlive.com/) @ Antwerp; June 2025 🇬🇧
-1. [Big Data London](https://www.bigdataldn.com/) @ London; September 2025 🇬🇧
-
+[Connected Data London](https://2025.connected-data.london/talks/when-data-vault-meets-ontologies-the-perfect-match-for-building-and-evolving-knowledge-graphs-in-distributed-environments/) @ London; November 2025 🇬🇧
+[Forward Data Conference](https://www.forward-data-conference.com/en/programme/talks/from-monolith-to-mesh-how-to-model-data-in-the-age-of-data-products-and-ai-agents-lhtha) @ Paris; November 2025 🇫🇷
 
 ## Recent stuff
+1. 📝 [The Data Product Marketplace: turning potential value into tangible outcomes](https://speakerdeck.com/angioia/the-data-product-marketplace-turning-potential-value-into-tangible-outcomes) @ Big Data London; September 2025 🇬🇧
+1. 🎥 [Information Architecture Recommoning](https://www.youtube.com/watch?v=6PY8lP58USg&list=PL-JWvH0Ma-AgLPeixBN6ZHOM94AoYr_pt) @ Data Mesh Live; June 2025 🇬🇧
+1. 🎥 [Avoiding agentic mess with Data Products and Knowledge Graphs](https://www.youtube.com/watch?v=t8U6LwQqK_0&list=PL-JWvH0Ma-AgLPeixBN6ZHOM94AoYr_pt) @ Data Innovation Summit; May 2025 🇬🇧
+1. 🎥 [Human-Centered Modeling for Data Products](https://youtu.be/g34K_kJGZMc?si=lluZd6nu2xx3q70Y) @ Knowledge Graph Insights; May 2025 🇬🇧
 1. 🎥 [Managing Data as a Product](https://www.linkedin.com/events/damaitalybookclub-managingdataa7298302218586275841/comments) @ DAMA Italy Book Club; March 2025  🇮🇹
 1. 🎥 [From Monolithic Knowledge Graph to Distributed Knowledge Mesh](https://www.youtube.com/watch?v=Sqi98tJNdkQ) @ ESTES PARK GROUP; March 2025 🇬🇧
 1. 📝 [Data Contract vs. Data Product Specifications: Friends, Enemies, or Frenemies?](https://medium.com/@andrea_gioia/data-contract-vs-data-product-specifications-8ffa3cc16725) @ Medium Blog
