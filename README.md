@@ -24,8 +24,8 @@ With 20+ years in the game, I have navigated the data universe up and down, one 
 # My feed
 
 ## Upcoming stuff
-[Connected Data London](https://2025.connected-data.london/talks/when-data-vault-meets-ontologies-the-perfect-match-for-building-and-evolving-knowledge-graphs-in-distributed-environments/) @ London; November 2025 🇬🇧
-[Forward Data Conference](https://www.forward-data-conference.com/en/programme/talks/from-monolith-to-mesh-how-to-model-data-in-the-age-of-data-products-and-ai-agents-lhtha) @ Paris; November 2025 🇫🇷
+1. [Connected Data London](https://2025.connected-data.london/talks/when-data-vault-meets-ontologies-the-perfect-match-for-building-and-evolving-knowledge-graphs-in-distributed-environments/) @ London; November 2025 🇬🇧
+1. [Forward Data Conference](https://www.forward-data-conference.com/en/programme/talks/from-monolith-to-mesh-how-to-model-data-in-the-age-of-data-products-and-ai-agents-lhtha) @ Paris; November 2025 🇫🇷
 
 ## Recent stuff
 1. 📝 [The Data Product Marketplace: turning potential value into tangible outcomes](https://speakerdeck.com/angioia/the-data-product-marketplace-turning-potential-value-into-tangible-outcomes) @ Big Data London; September 2025 🇬🇧
